@@ -1,1 +1,1 @@
-# beginblue.github.io
+beginblue.github.io
